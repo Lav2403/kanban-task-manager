@@ -66,5 +66,27 @@ Users can easily drag and drop tasks between different stages to track progress 
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder 
+kanban-task-manager/
+│
+├── backend/
+│ ├── src/
+│ │ ├── config/
+│ │ ├── controllers/
+│ │ ├── middleware/
+│ │ ├── models/
+│ │ ├── routes/
+│ │ ├── app.js
+│ │ └── server.js
+│ └── package.json
+│
+└── frontend/
+├── src/
+│ ├── api/
+│ ├── context/
+│ ├── pages/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+└── package.json
 
